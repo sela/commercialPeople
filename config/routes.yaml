@@ -1,0 +1,4 @@
+login:
+    path: /login
+    methods: [POST]
+    controller: App\Controller\LoginController::login
